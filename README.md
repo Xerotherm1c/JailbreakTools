@@ -6,9 +6,9 @@ Hola! I hope you enjoy browsing the source code and using the tools I create. Mo
 shshPatri0tS is the first tool I'm releasing. The purpose is to automatically check for and download shsh2 blobs every single day (at a pseudo-random time) so that you don't have to constantly check and download blobs when they're available. Most recently, I missed the signing window for 11.3 and now I'm stuck with a non-jailbroken iPhone 6S. This tool was born out of my frustration with Apple. Just let us do what we want with the devices we purchased.
 
 Special thanks to the open source contributions of the following projects that helped make shshPatri0tS possible:
-TSSSaver - https://github.com/TSSSaver/TSSSaver
-tsschecker - https://github.com/tihmstar/tsschecker
-noncestatistics - https://github.com/tihmstar/noncestatistics
+- TSSSaver - https://github.com/TSSSaver/TSSSaver
+- tsschecker - https://github.com/tihmstar/tsschecker
+- noncestatistics - https://github.com/tihmstar/noncestatistics
 
 # Features
 - AutoFetch device info (automatically grabs the ECID, device type, model, board config, and any captured apnonces)
